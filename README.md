@@ -1,0 +1,1 @@
+#calculeX é um projeto de uma calculadora baseada na linguagem JavaScript.
